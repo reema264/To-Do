@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT todo_list.wsgi:application
